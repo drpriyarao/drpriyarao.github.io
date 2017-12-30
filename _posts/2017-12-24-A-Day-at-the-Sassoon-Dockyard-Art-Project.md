@@ -11,8 +11,6 @@ icon: icon-html
 comments: true
 ---
 
-The Sassoon Dockyard Art Project 
-
 Recently I had the opportunity to visit the ongoing art festival at the Sassoon docks. This was organized by the St+art India Foundation to throw the spotlight on the rich heritage of this area particularly inhabited by the Kolis who are considered as the original inhabitants of the erstwhile city of Mumbai. Some of the exhibits made an everlasting impression on my mind. I bring forth what I imbibed from them and my personal interpretations loosely based on the descriptions at some of the exhibits.
 
 <br>
