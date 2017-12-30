@@ -1,72 +1,340 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+
+
 - name:
-    detail: Advitiya- The Satellite Team of IIT Bombay 
+    detail: ITI symposium on Oral Implantology
     i18n: company_b
   desc:
-    detail: I work here in Electrical Subystem mainly on Image processing and Embedded programming
+    detail: Attended the Straumann - ITI symposium on Oral Implantology 
     i18n: company_b_desc
   date:
-    detail: April 2017 - Present
+    detail: Dec 2017  
     i18n: company_b_date
   job:
-    detail: Core Member
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Arrow AI
+    detail: The Dental Dias 
+    i18n: company_b
+  desc:
+    detail: Certificate course in Implantology
+    i18n: company_b_desc
+  date:
+    detail: May 2017 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Advanced Endodontics Centre
+    i18n: company_b
+  desc:
+    detail: Certificate course in Endodontics under guidance of Dr. Uday Pawar
+    i18n: company_b_desc
+  date:
+    detail: July 2016  
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Course in TMJ Disorders Masterclass, Prosthotrain
+    i18n: company_b
+  desc:
+    detail: Certificate course in TMJ Disorders Masterclass, Prosthotrain under guidance of Dr. Moez Khakiani 
+    i18n: company_b_desc
+  date:
+    detail: November 2015 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+
+- name:
+    detail: Prosthotrain Centre
+    i18n: company_b
+  desc:
+    detail: Certificate course in Full mouth Rehabilitations under the guidance of Dr. Moez Khakiani 
+    i18n: company_b_desc
+  date:
+    detail: October 2015 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Periotrain Centre
+    i18n: company_b
+  desc:
+    detail: Certificate course in Basic and Advanced Periodontology under the guidance of Dr. Maqbool Ansari 
+    i18n: company_b_desc
+  date:
+    detail: September 2015 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Course in Full mouth Rehabilitations
+    i18n: company_b
+  desc:
+    detail: Certificate course in Full mouth Rehabilitations under Dr. Manish Agarwal 
+    i18n: company_b_desc
+  date:
+    detail: August 2015
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Prostho Train Institute
+    i18n: company_b
+  desc:
+    detail: Certificate course in Basic Level Prosthodontics under the guidance of Dr. Moez Khakiani
+    i18n: company_b_desc
+  date:
+    detail: December 2014 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Course in Advances in Removable Complete Dentures
+    i18n: company_b
+  desc:
+    detail: Certificate Course in Advances in Removable Complete Dentures under Dr. Manish Agarwal 
+    i18n: company_b_desc
+  date:
+    detail: August 2012
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Impart Education Centre
+    i18n: company_b
+  desc:
+    detail: Certificate course in Full Mouth Rehabilitations under the guidance of Dr. Ali Tunkiwala and Dr. Udatta Kher
+    i18n: company_b_desc
+  date:
+    detail: July 2012 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Advanced Centre of Dental Education
+    i18n: company_b
+  desc:
+    detail: Certificate Course in Implantology under the guidance of Dr. C. P. Mathai. 
+    i18n: company_b_desc
+  date:
+    detail: January 2012 to June 2012 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Seminar on Endodontics
+    i18n: company_b
+  desc:
+    detail: Attended the full day seminar on endodontics by Dr. Stephen Cohen 
+    i18n: company_b_desc
+  date:
+    detail: November 2010 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Clinic upgradation
+    i18n: company_b
+  desc:
+    detail: Digitalized data and x-rays with RVG systems 
+    i18n: company_b_desc
+  date:
+    detail: August 2007  
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Centre of Care in Micro Dentistry
+    i18n: company_b
+  desc:
+    detail: Advanced course in Micro Endodontics under guidance of Dr. P. D. Joshi
+    i18n: company_b_desc
+  date:
+    detail: May 2007 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Smiles Forever Centre
+    i18n: company_b
+  desc:
+    detail: Level 2 of the Aesthetics Dentistry course under guidance of Dr. Suhas Lele
+    i18n: company_b_desc
+  date:
+    detail: September 2005 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+
+- name:
+    detail: Clinic upgradation
+    i18n: company_b
+  desc:
+    detail: Installed Apex locator and E-Qplus for 3D objuration of root canals both used for endodontics
+    i18n: company_b_desc
+  date:
+    detail: August 2005
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Smiles Forever Centre
+    i18n: company_b
+  desc:
+    detail: Certificate course in Aesthetic Dentistry (Level 1) under guidance of Dr. Suhas Lele
+    i18n: company_b_desc
+  date:
+    detail: July 2004 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Centre of Care in Micro Dentistry 
+    i18n: company_b
+  desc:
+    detail: Basic course in Rotary endodontics under the guidance of Dr. P. D. Joshi
+    i18n: company_b_desc
+  date:
+    detail: June 2001 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Dr. Rao's Clinic, Virar
+    i18n: company_b
+  desc:
+    detail: Started full time independent private practice
+    i18n: company_b_desc
+  date:
+    detail: August 1995 - Present
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: St. Teresa's Hospital, Agashi
     i18n: company__a
   desc:
-    detail: I worked at Arrow AI as an Intern. 
+    detail: Faculty at Dental Dept 
     i18n: company_a_desc
   date:
-    detail: Dec. 2016 - Jan. 2016
+    detail: July 1995 to Feb 1997  
     i18n: company_a_date
   job:
-    detail: Software Developer
+    detail: Faculty
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Electronics Club IIT Bombay
+    detail: Nair Hospital Dental College
     i18n: company__c
   desc:
-    detail: Appointed as Convener 
+    detail: BDS
     i18n: company_c_desc
   date:
-    detail: April. 2016 - April. 2017
+    detail: Dec 1989 - Feb 1995 
     i18n: company_c_date
   job:
-    detail: Convener
+    detail: 
     i18n: company_b_job
   icon: fa-plus-square  
 
 - name:
-    detail: IIT Bombay
+    detail: B. N. Bandodkar College of Science and Arts
     i18n: company__d
   desc:
-    detail: Joined the Department of Electrical Engineering, IIT Bombay
+    detail: Completed Intermediate (12th)
     i18n: company_d_desc
   date:
-    detail: June. 2015 - Present
-    i18n: company_d_date
-  job:
-    detail: Undergraduate
-    i18n: company_d_job
-  icon: fa-plus-square    
-
-- name:
-    detail: HSC
-    i18n: company__e
-  desc: 
-    detail: Completed Schooling 
-    i18n: company_d_desc
-  date:
-    detail: May 2015 
+    detail: June 1989 
     i18n: company_d_date
   job:
     detail: 
     i18n: company_d_job
+  icon: fa-plus-square    
+
+- name:
+    detail: SES High School, Thane 
+    i18n: company__e
+  desc: 
+    detail: Matriculted 
+    i18n: company_d_desc
+  date:
+    detail: June 1987
+    i18n: company_d_date
+  job:
+    detail: 
+    i18n:  
   icon: fa-plus-square    

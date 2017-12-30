@@ -1,481 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Priya Rao</title>
+    <title>Dr.Priya Rao</title>
     <description>My blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Dec 2017 03:40:41 +0530</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 03:40:41 +0530</lastBuildDate>
+    <pubDate>Sat, 30 Dec 2017 18:22:20 +0530</pubDate>
+    <lastBuildDate>Sat, 30 Dec 2017 18:22:20 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>Thari- The Loom @NCPA </title>
-        <description>&lt;p&gt;On 28th November 2017 at Jamshed Bhabha theatre, NCPA, &lt;a href=&quot;http://www.paramparikkarigar.com/index.php&quot;&gt;Paramparik Karigar&lt;/a&gt; organized a Bharatnatyam dance event “Thari- The Loom” which I happened to attend. Paramparik Karigar an association of craftsmen was founded in 1996. The principle aim of Paramparik Karigar is to preserve and promote traditional art and craft of India. Critically acclaimed Bharatanatyam dancer Padma Shri, Malavika Surakkai and troupe put forth a performance which brought to audiences a lasting experience of the richness, versatility and profound beauty through the traditional practices of dance and weaving.&lt;/p&gt;
+        <title>A Day at the Sassoon Dockyard Art Project</title>
+        <description>&lt;p&gt;The Sassoon Dockyard Art Project&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;As it was given in the description of the event, 
-Thari-The Loom’ is a confluence of traditional practice informed by contemporary sensibilities which extends the language of classical dance from India. The innovative dance choreography is inspired by the sari - the traditional hand woven ‘unstitched garment’ from India and it explores the fundamental concepts that are shared between the two seemingly different but essentially connected disciplines of dance and weaving: space, structure, motif, symmetry, proportion, relationship, alignment. Malavika Sarukkai endeavors to create through inventive group choreography a dynamic “dance cloth” that explores the artistic relationship of the constant warp and variable weft within the structure of the loom.&lt;/p&gt;
-
-&lt;p&gt;Malavika Surakkai on her journey of embodiment towards attempting to explore the underlying subtle connections of rhythms between dance and other naturally embedded activities around says &lt;em&gt;“for as long as I remember the sari has been the part of my life. As a young dancer, the sari was a proclamation. When I draped it around my twelve-year-old body, I felt a new sense of purpose. As I grew up it became other things as well; something that spoke intensely of who I was. It wasn’t simply a piece of cloth and unstitched garment. It was an emotion, a state of mind, sometimes a statement. The looms spoken rhythms that have always been a part of my life in dance, As I observed more attentively, the loom revealed other secrets as well. I saw connections there that linked it to poetry, music, myth and dance design. I learned of the war distort long vertical threads that mark the length of the sari and defined the core of the loom. They spoke to me of the constant and I heard in them the notes of Krishna’s divine flute, essential and beckoning. I learned of the weft threads that cross and embrace the warp horizontally to create design, motive, and color. In the beginning, I thought of these conversations have been private. It’s been something that spoke specifically to me but in time they demanded to be more widely heard and ever so instantly they became a movement, became a dance, became ‘Thari, the Loom’“.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Malavika Sarukkai visited Kanchipuram where they recorded some of the musical soundscapes – that of the moving loom – she came across a weaver who told her that the sari wasn’t merely a product. “For the weaver, there’s a deep investment. There’s an emotional connect. After all, they would have taken hours and hours to weave each sari. It’s the same for a dancer who has a personal connect to dance. And just like each sari that’s woven is different from the other, each dance performance is different. How I dance today will be different from how I dance tomorrow,” she says.&lt;/p&gt;
-
-&lt;p&gt;Watching Malavika Sarukkai and troupe live was an experience in itself. Dance full of grace always touches the very core of my heart and grace was oozing out from the beautiful and enthralling dance movements of the dancers. I couldn’t help but observe the various geometric shapes and figures the performers displayed by complex but graceful movements of the body with simultaneously maintaining their wrists and palm in the beautiful &lt;em&gt;mudra&lt;/em&gt; position which is a trademark of Bharatnatyam. Actress Vidya Balan who also has a classical dance background was invited to commemorate Malavika Surakkai and troupe. Vidya said that she ditched a family function to come and witness MS’s magnificent dance.&lt;/p&gt;
-
-&lt;p&gt;Along with the lovely Bharatnatyam performance, there was an exhibition of beautiful handwoven sarees from all over India along with their description. It was alluring to see so many varieties of sarees to which I was never exposed to before.&lt;/p&gt;
-
-&lt;p&gt;Here are some clicks of the show:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vidya Balan commemorating Malavika Surakkai&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: left;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/MS_vidya.jpg&quot; alt=&quot;Vidya Balan commemorating Malavika Surakkai&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Malavika Surakkai and troupe&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: right;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/troupe.jpg&quot; alt=&quot;Malavika Surakkai and troupe&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Saree made of muslin cloth&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: left;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/muslin.jpg&quot; alt=&quot;muslin&quot; width=&quot;30%&quot; height=&quot;30%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Paithani&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: right;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paitahni_1.jpg&quot; alt=&quot;Paithani&quot; width=&quot;30%&quot; height=&quot;30%&quot; style=&quot;float:left;&quot; align=&quot;left&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Ayiram Butti Silk Saree&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: left;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/thari/paithani_2.jpg&quot; alt=&quot;paithani&quot; width=&quot;30%&quot; height=&quot;30%&quot; style=&quot;float:right;&quot; align=&quot;right&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 28 Nov 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/11/28/Thai-the-loom-@NCPA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/28/Thai-the-loom-@NCPA.html</guid>
-        
-        <category>Malaviak Sarukkai</category>
-        
-        <category>Bharatnatyam</category>
-        
-        <category>classical</category>
-        
-        <category>loom</category>
-        
-        <category>Thari the Loom</category>
-        
-        <category>NCPA</category>
-        
-        <category>Dance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Remembering Indira @Tata LitFest, NCPA</title>
-        <description>&lt;p&gt;On the eve of the 100th birth anniversary of &lt;a href=&quot;https://en.wikipedia.org/wiki/Indira_Gandhi&quot;&gt;Mrs.Indira Gandhi&lt;/a&gt;, I attended a panel discussion “Remembering Indira” on the last day of &lt;a href=&quot;http://www.tatalitlive.in/&quot;&gt;Tata Literature Live, The Mumbai Litfest 2017&lt;/a&gt;. On her centenary day, the panelists &lt;a href=&quot;https://en.wikipedia.org/wiki/P._Chidambaram&quot;&gt;P.Chidambaram(former Union Minister of Finance and writer)&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jairam_Ramesh&quot;&gt;Jairam Ramesh(Former Environment Minister)&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_Galbraith&quot;&gt;Mr. Peter Galbraith(former US Senator and diplomat)&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Uday_Singh_Mehta&quot;&gt;Mr.Uday Mehta(American political scientist)&lt;/a&gt; were talking about her legacy and her place in history. The discussion covered several topics ranging from Indira’s personal life to how Indira’s policies and actions affected Indian politics. Here’s an excerpt of the talk. I might have missed many of the happenings of the show. All the comments/opinions are of the concerned people present in the discussion and not mine. Suggestions/amendments will be appreciated.&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&quot;https://en.wikipedia.org/wiki/Manu_S._Pillai&quot;&gt;Manu Pillai&lt;/a&gt;
-&lt;br /&gt;
-When: 10:30 to 11:30 am
-&lt;br /&gt;
-Where: &lt;a href=&quot;http://www.ncpamumbai.com/venue/experimental-theatre&quot;&gt;Experimental Theatre Garden, NCPA&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The session started with the host pointing out an amusing irony “&lt;em&gt;Bunch of men on stage commemorating a Lady’s Life Saga&lt;/em&gt;”.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt;  How was Indira as a Nehru’s Daughter? Was she Anti-Nehru in terms of her ideologies? How will you describe the relationship between her and Nehru?
-&lt;br /&gt; 
-&lt;strong&gt;Uday Mehta:&lt;/strong&gt; Both Indira and Nehru were part of the script “&lt;em&gt;colonization&lt;/em&gt;”. Indira’s career was driven by a local context. She was highly contextual in her whole career. She responded to a context very rapidly. On the other hand, Nehru had a grand design. I would not consider Indira as a very intellectual “prime minister” unlike Nehru who was a great author too apart from being the prime minister.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; (To Peter Galbraith) Your father was an ambassador and you were in close relations with Nehru and Indira. How will you describe her?
-&lt;br /&gt;
-&lt;strong&gt;Peter Galbraith:&lt;/strong&gt; When I met her at first, she was a 16. I wasn’t much focused on thinking over whether she will become next prime minister of the free India rather than the things you are interested in at that age. (&lt;em&gt;Audience laughs&lt;/em&gt;). She was a shy person (&lt;em&gt;Quite surprising!&lt;/em&gt;) I am sorry to say but at that time (1960), we didn’t think of a women becoming a leader at such great levels. Kennedy was interested in India but due to lack of miscommunication between Jacky(refers to Jack Kennedy) and Indira, there wasn’t much that could happen. Indira was elected as prime minister in the hope that she will be easy to control but obviously, the history speaks for itself and we know that she proved all of them wrong.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; If there was no Indira, how Congress would be? 
-&lt;br /&gt;
-&lt;strong&gt;Jairam Ramesh:&lt;/strong&gt; I don’t answer such hypothetical questions. No point. He then continues. History writing in India is based on oral communication and not on structured research. Indira didn’t think of herself as a political person. She was a naturalist. She was happy dealing with nature. She even appealed all the CM’s to care for nature in their individual states. She was an unfathomable, complex personality. Responded to events and also created events. By 1971 she was creating events. She did have a great design for India. She integrated  Sikkim. It’s wrong to think that she only responded to events. Dismembered Pakistan in 1971. One of her famous reply to a Soviet official, “&lt;em&gt;We Indians know who we are&lt;/em&gt;” on being questioned on the identity of Indians after being attacked by several rulers. (On being asked about the formation(establishment) he replies:) Dynasty is a loose word coined by some people to create a shallow negative effect on the masses(democratic masses). People are accountable as we have a voting system.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; There was an increase in criminalization (in politics specifically). Does this criminalization open up spaces for others to exploit and thus increase it further?  As today it is a total mess. 
-&lt;br /&gt;
-&lt;strong&gt;Chidambaram:&lt;/strong&gt; Indira didn’t change the system. Also, one PM need not be a clone of other. Comparing her with Nehru doesn’t make sense. She was great at some policies, not very great at some. It’s painful to see India not celebrate Indira just like Russian revolution is not celebrated by the Russians. [Jairam Mukesh comments ‘Russian revolution is being celebrated at Agartala and Trivandrum’ (&lt;em&gt;audience laughs&lt;/em&gt;)].&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; Up to Nehru, there was a broad agenda for India w.r.t other countries. During  Indira, it became a bit vague. 
-&lt;br /&gt;
-&lt;strong&gt;Peter Galbraith:&lt;/strong&gt; Indira didn’t partition Pakistan. Pakistan partitioned itself. “&lt;em&gt;Audience applauds&lt;/em&gt;”. At Indira’s time, India wasn’t influential at international platform nor it was during Nehru’s time. The reason being India didn’t have any followers. The 1971 war led to Pakistan turn to nuclear weapons.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; Emergency was declared. The emergency was removed. Indira was removed from the party. But she was brought back very quickly. She was forgiven very quickly by Indian people. Did that had an influence on the future of Indian democracy. 
-&lt;br /&gt;
-&lt;strong&gt;Jairam Ramesh:&lt;/strong&gt; India ended the Korean War. Was a member of the neutral forces. Hence India did had an important influential role at the international platform. Indira had a worldview. It’s not that just in last recent 5 years, India became the darling of the world. 
-&lt;em&gt;[Peter Galbraith accepts misjudgments in the comments on 1950-1960 influence]&lt;/em&gt;&lt;br /&gt;
-Mr.Jairam Ramesh further emphasizes the influence of India.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;Chidambaram:&lt;/strong&gt; Indira brought poor on agenda. Separated milk and water. Poor know what benefits them. Hence they brought her back. They had to bring her back.
-Chidambaram makes a statement on Modi: &lt;em&gt;Modi has failed on his economic policies.&lt;/em&gt; 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I had a personal interaction with the chair after the panel discussion, briefly with Mr.Peter Galbraith when he signed on my running notes. Attaching a pic of the same.&lt;/p&gt;
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/remembering_indira/sign.jpg&quot; alt=&quot;Peter_Galbraith&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 19 Nov 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/11/19/Remembering-Indira-@Tata-LitFest-NCPA.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/19/Remembering-Indira-@Tata-LitFest-NCPA.html</guid>
-        
-        <category>Tata Litfest</category>
-        
-        <category>NCPA</category>
-        
-        <category>Mumbai Litfest</category>
-        
-        <category>Indira</category>
-        
-        <category>India</category>
-        
-        <category>Chidambaram</category>
-        
-        <category>Jairam Ramesh</category>
-        
-        <category>Peter Galbraith</category>
-        
-        <category>Uday Singh Mehta</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Reflections on Starry Night &amp; Impression, Sunrise </title>
-        <description>&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/paintings/starry_night.jpg&quot; alt=&quot;The Starry Night&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-One of the most epic paintings I have ever seen. Can never stop staring at it. 
-The gallery label at the Museum of Modern Art (MoMA), New York says:&lt;/p&gt;
-
-&lt;p&gt;“This morning I saw the country from my window a long time before sunrise, with nothing but the morning star, which looked very big,” &lt;strong&gt;Van Gogh&lt;/strong&gt; wrote to his brother Theo, from France.
-Rooted in imagination and memory, The Starry Night embodies an inner, subjective expression of van Gogh’s response to nature. In thick, sweeping brushstrokes, a flamelike cypress unites the churning sky and the quiet village below. The village was partly invented, and the church spire evokes van Gogh’s native land, the Netherlands.&lt;/p&gt;
+&lt;p&gt;Recently I had the opportunity to visit the ongoing art festival at the Sassoon docks. This was organized by the St+art India Foundation to throw the spotlight on the rich heritage of this area particularly inhabited by the Kolis who are considered as the original inhabitants of the erstwhile city of Mumbai. Some of the exhibits made an everlasting impression on my mind. I bring forth what I imbibed from them and my personal interpretations loosely based on the descriptions at some of the exhibits.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/paintings/Impression.jpg&quot; alt=&quot;Impression, Sunrise&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-Painted in the Spring of 1873. &lt;em&gt;Sunrise&lt;/em&gt; by &lt;strong&gt;Claude Monet&lt;/strong&gt; is a portrait of the Le Havre port located on the northern coast of France. Monet displays a brilliant use of color in the water to help portray a reflection of the rising sun.&lt;/p&gt;
+&lt;figure class=&quot;half_left_55&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/1.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/1.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Throughout the years, &lt;em&gt;Claude Monet’s Impression, Sunrise&lt;/em&gt; has been celebrated as the quintessential symbol of the Impressionist Movement.  This renowned work of art is considered to be one of Monet’s “most poetic expressions” of his &lt;em&gt;Impressionism movement&lt;/em&gt;. Developing in Paris in the 1860s, the influence of Impressionist Movement spread throughout Europe and eventually the United States. Its originators were artists who rejected the official, government-sanctioned exhibitions, or salons, and were consequently shunned by powerful academic art institutions.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Oct 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/10/22/Reflections-on-Starry-Night-&-Impression-Sunrise.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/22/Reflections-on-Starry-Night-&-Impression-Sunrise.html</guid>
-        
-        <category>Van Gogh</category>
-        
-        <category>Claude Monet</category>
-        
-        <category>Impressionist Movement</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>A Hashtag Revolution to Make your Day</title>
-        <description>&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/meToo/author.jpg&quot; alt=&quot;Rudhdi&quot; width=&quot;30%&quot; height=&quot;30%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
+&lt;p&gt;The picture that says it all… 
+&lt;br /&gt;
+And yet I will say some more !! —&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Rudhdi Walawalkar&lt;/em&gt; is a first year law student at ILS Law college, Pune. She reads, writes and paints as much as she eats and sleeps! She says, “I think it’s nice to have an opinion in a world where everyone wants to be politically correct. Passionate about women’s right, cats, dogs and pretty much everything under the sun. Oh! I always strive to be a better Gryffindor- where dwell the brave at heart.”&lt;/p&gt;
+&lt;p&gt;It is the very embodiment of a fishing district of the Sassoon docks– that over time got relegated into oblivion where the Kolis continued to live in their own netted world, left to their own devices &lt;/p&gt;
 
-&lt;p&gt;The viral spread of hashtag &lt;strong&gt;me too&lt;/strong&gt; has burst the dam of several thousands of repressed voices, those voices that were downplayed by years and years of normalization of sexual harassment. The crack in the dam has witnessed sporadic seepage of outbursts of voices throughout the years.&lt;/p&gt;
+&lt;p&gt;That a crow should serendipitously fly across with the prized catch of a fish remnant between its beaks at that very instant as I decide to point and shoot with my mobile phone camera– is a matter of plain fortuitous luck hard to get by otherwise,  but just shows how interdependent one species is on the other and how imperative it is for us to preserve, improve and cherish our habitat… &lt;/p&gt;
 
-&lt;p&gt;It goes as early as October 1798, during the &lt;em&gt;‘Women’s march on Versailles,’&lt;/em&gt; which started as a French food riot, over scarcity and high cost of bread, and later merged with activities of revolutionaries seeking political reforms. We know of different waves of feminism having played monumental roles in securing rights for women. There was also the &lt;em&gt;‘Rojava revolution’&lt;/em&gt; of &lt;em&gt;Kurdish&lt;/em&gt; women, which saw an increase in women’s participation in politics, helping women dealing with sexual assault, etc.  with the advent of technology and social media, we find hashtags we can relate with, which aim at starting discussions on social issues and bringing about a positive, wholesome change. Here are some of the hashtags- &lt;a href=&quot;http://www.huffingtonpost.in/entry/21-hashtags-that-changed-the-way-we-talk-about-feminism_us_56ec0978e4b084c6722000d1&quot;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And as the curtains fall over the art festival at the Sassoon Docks, I m indeed happy to have been a witness to this rich heritage from upclose… &lt;/p&gt;
 
-&lt;p&gt;Coming back to the most recent one, &lt;strong&gt;#metoo&lt;/strong&gt; and why it is so very important. Truth be told, it shouldn’t take a hashtag to realize wrongs in society, but where self-realization has clearly not brought about the required change, such a push is meant to do the trick.&lt;/p&gt;
-
-&lt;p&gt;The first time that I was molested in the general compartment of a local train, I was in shock, I couldn’t react. I quickly got down at the next station to board another train. I cried all the way home, wiped off my tears to avoid unwanted questions. I didn’t talk about it to anyone. I thought I could deal with it in my own way, despite recurring nightmares, reluctance in getting into general compartments, being hyper vigilant all the time in public spaces. I felt guilty, I was ashamed, and for the longest time, I thought it was my fault. Since then, I’ve learnt to fight back, to yell, call for help, slap, hit with an umbrella, etc. because I can’t seem to catch hold of the running away perpetrator to drag him to the authorities.&lt;/p&gt;
-
-&lt;p&gt;Even though I know I have law on my side, I look down and quicken my pace when someone catcalls or throws obscenities or masturbates publicly as I walk down a street. I think and rethink before wearing my super comfortable pair of shorts, I avoid crowded places, public celebrations of festivals and deny myself of a number of things. This is exactly the product of normalization and victim shaming.  I’m trying to change this and I hope I succeed. When my timeline floods with similar stories, I want to give strength and warmth to all.&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/meToo/alyssa_Milano_tweet.png&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;So, how is this one social media hashtag going to solve the gargantuan problem before us?&lt;/p&gt;
-
-&lt;p&gt;This is a start to a &lt;strong&gt;discussion&lt;/strong&gt;. This is victims coming out and no longer staying quiet fearing victim blaming and shaming. This is every person who has faced sexual assault realizing that it is not normal or okay or accepting and digesting what befell them. This is for those living in a bubble to realize the gravity of the situation when not only some person in a news report faced sexual harassment, but also almost every other person on your friend list, who you are close to. It is for people to realize that not only females but also males and many other cis/trans persons have suffered.  It isn’t easy for people to read these statuses which have probably been triggers for many.&lt;/p&gt;
-
-&lt;p&gt;This is a social reverberation of existing and potential influencers of change. It is not just for you to realize and change yourself, it is also for you to influence others and make sure people around you don’t go back into the quagmire of sexist and racist comments/jokes, insensitive, misogynistic way of life, etc. We can call out perpetrators, help out victims, show solidarity, not brush over voices of minorities and underrepresented. We have the ability to do a lot if we put our minds to it.&lt;/p&gt;
-
-&lt;p&gt;We have the power break these shackles of normalization and trivialization of social problems. We have it in us, to slowly, but surely, bring about a change for good. Let this fire never die down.&lt;/p&gt;
-
-&lt;p&gt;This artcile was originally published here : &lt;a href=&quot;http://safecity.in/a-hashtag-revolution-to-make-your-day/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 04 Jun 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/06/04/A-Hashtag-Revolution-to-Make-your-Day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/04/A-Hashtag-Revolution-to-Make-your-Day.html</guid>
-        
-        <category>meToo</category>
-        
-        <category>Woman Safety</category>
-        
-        <category>Woman Empowerment</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nutan's Charm</title>
-        <description>&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_1.jpg&quot; width=&quot;30%&quot; height=&quot;30%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-It’s quite easy to give in to the temptations, and assume that the camera worships your stature, and you cease to be the real you. And thus we have received so many of our larger-than-life characters. But watching &lt;em&gt;Nutan&lt;/em&gt; seems like an exercise in disbelief, an act of disregarding vanity. Her carefully etched out characters, infused with subtlety and grace, make a body of work populated by believable women, at a vast distance from our prima &lt;em&gt;divas&lt;/em&gt;. From &lt;em&gt;Bimal Roy&lt;/em&gt; to &lt;em&gt;Vijay Anand&lt;/em&gt;, every director she worked with became an ardent admirer of her meteoric talent. Nutan was not only blessed with a graceful personality and great acting skills, her voice was also quite serene. &lt;em&gt;Gautam Rajadhyaksha&lt;/em&gt; the famous photographer says about nutan, “Nutan was so beautiful she could be shot from any angle.” 
-&lt;br /&gt;
-&lt;br /&gt;
-My personal favourites of Nutan are Sujata, Seema and Bandini of which Sujata and Bandini were directed by the legendary director, Bimal Roy. Director Bimal Roy was an introvertgenius who wasn’t outwardly expressive. If he liked any shot, he would just say‘OK’, and proceed to the next scene unlike directors who made it a point to letthe actors know that they have done well. One day while shooting an emotionalscene in Sujata, she witnessedsomething rare when the shot got over. Roy’s eyes were moist; a huge appreciationof her craft. In Bandini she plays a young prisoner and a jiltedlover. Her character could easily have become the victim of melodramatic histrionics.But she exercises a rare control and lets us see her face as the canvas for arainbow of emotions, from rage to compassion. The scene where she is driven byinsane fury and is about to commit murder is a masterclass of her craft. Aprisoner of fate, a captive of love, and a hostage of her own beauty, Kalyani is not only her career best work, but a performance that can rival any iconic workof Indian cinema.&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_right_40&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/1.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/2.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The picture that is the very embodiment of a fishing district that over time got relegated into oblivion where the Kolis continued to live in their own netted world, left to their own devices. The pulse of ‘this’ people runs in the fishing net that is the main medium of sustenance and their primary source of livelihood. As one enters the docks, the fishy stench is all pervasive which becomes so to a point that it can curdle the gastric juices. But the exhibit at the outset itself brings to the foyer these idiosyncrasies that hold the thread of a community and captivates through imagery.  A fishing net that symbolizes the entire district that should ideally make people reel due to the fishy odour read obnoxious stench for some, does all but do that. Hanif Qureshi’s exhibit at the entrance has very commonplace names of various objects that invoke our olfactory senses and challenge our memory, taking our mind away from all this as we read and mull over them.  Some of them like Mom’s cooking, a new book, fresh clothes, freshly cut grass, ink, a new book or a shoe are among the pleasant ones and among the downright obnoxious ones are the dung, a train toilet, garbage, dung, etc. These are those very smells that have for long been taken for granted but not anymore at this exhibit.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-In her last years she had become a satsangi. The word ‘Om’ meant a lot to her. She composed bhajans, sang them and despite the pain, she died with the conviction that her soul would merge with God after it fled the body.&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/nutan/nutan_2.jpg&quot; alt=&quot;Nutan in Bandini&quot; width=&quot;40%&quot; height=&quot;40%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 04 Jun 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2017/06/04/Nutan-Charm.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/04/Nutan-Charm.html</guid>
-        
-        <category>Nutan</category>
-        
-        <category>Bandini</category>
-        
-        <category>Sujata</category>
-        
-        <category>Seema</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Imaging Sun at Radio and Microwave Frequencies</title>
-        <description>&lt;p&gt;This is a short excerpt of research work done by me and my friend Krishna Subramani with &lt;a href=&quot;https://www.ee.iitb.ac.in/wiki/faculty/rks&quot;&gt;Prof. Raghunath Shevgaonkar&lt;/a&gt; during summers of 2017. I was working on the analysis of electromagnetic wave propagation in the solar atmosphere. The final goal was to obtain the temperature image of the sun if viewed in microwave and radio frequency range. I would like to thank Prof.Shevgaonkar for giving me this wonderful opportunity to dwell into the aspects of research involving laws of physics and simulating them using software of which I had no exposure to begin with. I used Python for simulation purposes; specifically libraries like &lt;font face=&quot;monospace&quot; size=&quot;4&quot;&gt;Numpy&lt;/font&gt; and &lt;font face=&quot;monospace&quot; size=&quot;4&quot;&gt;Scipy&lt;/font&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The electromagnetic waves in solar corona follow strange trajectories owing to the unique distribution of electrons in the corona. The complexity of the distribution poses a challenge to model the apparent brightness temperature of the corona. Explained below is an attempt to explain the detail procedure of how we analyzed the solar coronal electron distribution and obtained the temperature profile of sun. The radiation has been analyzed at frequencies lying in the microwave and radiowave bands. The electron density profile of corona is such that the refractive index is less than one and drops to zero at some radial distance from the sun. The trajectory of rays in such an environment has been found out and by using laws of radiative heat transfer theory, we obtained the brightness temperature of the sun and thus the complete temperature profile of sun.&lt;/p&gt;
-
-&lt;h2 id=&quot;structure-of-solar-atmosphere&quot;&gt;Structure of Solar Atmosphere&lt;/h2&gt;
-&lt;p&gt;Before getting into the modeling of the solar atmosphere, let’s know a bit about its structure.&lt;/p&gt;
-
-&lt;p&gt;Above the convective zone of the solar interior is the solar atmosphere. This is made up of three main layers, the photosphere, the chromosphere and the corona. These are described below.&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/solar_structure.jpg&quot; width=&quot;60%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;h4 id=&quot;photosphere&quot;&gt;Photosphere&lt;/h4&gt;
-&lt;p&gt;The lowest layer of the sun’s atmosphere is the photosphere. It is about 300 miles (500 kilometers) thick. This
-layer is where the sun’s energy is released as light.The photosphere is covered by granulation, which represents the tops of convective cells rising from the interior. The concentration of magnetic fields gives rise to the chromospheric network in the layer above the photosphere, the chromosphere.&lt;/p&gt;
-
-&lt;h4 id=&quot;chromosphere&quot;&gt;Chromosphere&lt;/h4&gt;
-&lt;p&gt;The next layer is the chromosphere. The chromosphere emits a reddish glow as super-heated hydrogen burns off.The temperature rises across the chromosphere from 4,500 degrees Kelvin to about 10,000 degrees Kelvin. But the red rim can only be seen during a total solar eclipse.&lt;/p&gt;
-
-&lt;h4 id=&quot;corona&quot;&gt;Corona&lt;/h4&gt;
-&lt;p&gt;The solar corona consists of very tenuous plasma. At times of total eclipse, observations of the corona are possible because radiation from the solar disk is masked by the Moon. What is normally observed is the so-called K-corona.
-&amp;lt;/br&amp;gt;
-Corona has a very special region known as the transition region. The surface of the sun is almost 10,000 degrees Fahrenheit. That’s really hot. But the sun’s corona is over 200 times hotter—millions of degrees Fahrenheit. That’s like the actual flame of a fire being 200 times colder than the air around that fire.
-Why would the area around a hot burning mass be hotter than something that is actually closer to the source of heat? And if the corona is so hot, then why doesn’t it heat up the sun’s surface to a similar temperature? 
-The answer to these question comes when you sit down to write the tedious equations of balancing the gravitational and radiational forces. This sure is interesting but out of the scope of this article, hence let’s not digress.
-It has been seen that the structure of the corona is quite varied and complex. Different zones have been immediately classified on the coronal disc. The astronomers usually distinguish several regions, as described below.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Active regions&lt;/strong&gt;
-Active regions are ensembles of loop structures connecting points of opposite magnetic polarity in the photosphere, the so-called coronal loops.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Large-scale structures&lt;/strong&gt;
-Large-scale structures are very long arcs which can cover over a quarter of the solar disk but contain plasma less dense than in the coronal loops of the active regions. The large-scale structure of the corona changes over the 11-year solar cycle and becomes particularly simple during the minimum period when the magnetic field of the Sun is almost similar to a bipolar configuration (plus a quadrupolar component).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Filament cavities&lt;/strong&gt;
-Filament cavities are zones which look dark in the X-rays and are above the regions where Hα filaments are observed in the chromosphere. Filament cavities are cooler clouds of gases (plasma) suspended above the Sun’s surface by magnetic forces. The regions of intense magnetic field look dark in images because they are empty of hot plasma.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;obtaining-the-trajectory-of-electromagnetic-radiation&quot;&gt;Obtaining the Trajectory of Electromagnetic Radiation&lt;/h2&gt;
-
-&lt;p&gt;In the normal background corona, we will adopt the conventional &lt;em&gt;Bambauch-Allen model&lt;/em&gt; for the radial distribution of electron density. The model is based on photometry of white light of the corona and zodiac light.&lt;/p&gt;
-
-&lt;p&gt;\[ N = 1.55\times10^{14}\rho^{-6}(1 + 1.93\rho^{-10})  electrons/m^{3} \]&lt;/p&gt;
-
-&lt;p&gt;Where, \( \rho \) is the radial distance from the center of the sun in terms of the solar radius.&lt;/p&gt;
-
-&lt;p&gt;The refractive index \(\eta \) for radiation of frequency \(f = \frac{2\pi}{\omega}\) in a medium consisting ‘N’ free $electrons/m^{3}$, each making $\upsilon$ collisions/sec, is given by:&lt;/p&gt;
-
-&lt;p&gt;\[ \eta^{2} = 1 - \frac{Ne^{2}}{\epsilon_0m(\omega^{2} + \upsilon^{2})} \]&lt;/p&gt;
-
-&lt;p&gt;Subsituting the expression of ‘N’ and assuming ‘w’ » ‘v’ (which is a good approximaton), we have:&lt;/p&gt;
-
-&lt;p&gt;\[ \eta^{2} = 1 - 12400f^{-2}\rho^{-6}(1 + 1.93\rho^{-10})  \]&lt;/p&gt;
-
-&lt;p&gt;where f is the frequency ( \(f = \frac{2\pi}{\omega}\) )&lt;/p&gt;
-
-&lt;p&gt;The path of the rays can be calculated using Snell’s laws. To be able to apply Snell’s law we need to ensure the following points.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;All the rays lie in the plane containing the center of Sun.&lt;/li&gt;
-  &lt;li&gt;For all points in the solar atmosphere,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;From Snell’s Law, we obtain&lt;/p&gt;
-
-&lt;p&gt;\[ \eta\rho\sin{i}= a \]&lt;/p&gt;
-
-&lt;p&gt;Where, ‘a’ is a constant for a ray and’i’ is the angle of incidence &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The constant “a” represents the distance between the equator(of the sun) and the ray as the ray approaches infinity.&lt;/li&gt;
-  &lt;li&gt;The surface of constant refractive index here is spherical in shape.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For any ray like the one shown below, the follwing equation holds good,&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/a=0.5.png&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\[ \frac{\rho{d\theta}}{d\rho} = -\tan{i} \]&lt;/p&gt;
-
-&lt;p&gt;Using the above-developed equations, we finally get to our differential equation..&lt;/p&gt;
-
-&lt;p&gt;\[ \frac{d\theta}{d\rho} = \frac{-a}{\rho(\eta^{2}\rho^{2} - a^{2})^{1/2}} \]&lt;/p&gt;
-
-&lt;p&gt;The trajectory of ray was obtained by solving the above diifferential eqaution.&lt;/p&gt;
-
-&lt;p&gt;This is the python script which simulates the sun’s atmosphere and plots the trajectory of the rays. &lt;a href=&quot;https://github.com/sabSAThai/Rate-racing-in-plasma/blob/master/python_scripts/script.py&quot;&gt;Click here for the code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are the simulation results :&lt;/p&gt;
-
-&lt;p&gt;For ray which made a distance of 0.5 solar radii from the equator and for a beam of rays.&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/traj.png&quot; width=&quot;75%&quot; height=&quot;30%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;obtaining-the-temperature-profile&quot;&gt;Obtaining the Temperature profile&lt;/h2&gt;
-&lt;p&gt;To understand the radiative heat transfer theory, consider a cloud with a hot source of radiation behind it. The radiation will enter the cloud with intensity \(I_o\) but will be absorbed on passing through the cloud.&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/cloud.png&quot; width=&quot;50%&quot; height=&quot;20%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;\( dI = - k_nIdl \) , &lt;br /&gt;
-where, I is the intensity entering each volume element, &lt;br /&gt; 
-\( k_n \) is the absorption coefficient, or opacity, &lt;br /&gt;
-dl is the length element&lt;/p&gt;
-
-&lt;p&gt;The solution to the above differential equation is :&lt;/p&gt;
-
-&lt;p&gt;\[ I = I_0exp(- \int_{0}^Lk_ndl) \]&lt;/p&gt;
-
-&lt;p&gt;Note that the integration is taken along the line of sight from the observer.  In the case where the absorption is constant, of course, \(k_n\) can be brought out of the integral.  The integral quantity is a dimensionless quantity called the &lt;em&gt;optical depth&lt;/em&gt; ($\tau$). The optical depth is a convenient way to refer to the &lt;em&gt;thickness&lt;/em&gt; of a cloud. It basically measures how many e-foldings of intensity reduction the cloud’s thickness represents.&lt;/p&gt;
-
-&lt;p&gt;To obtain a relation between the observed temperature, source temperature and the cloud temperature, we use the &lt;em&gt;Rayleigh-Jeans approximation&lt;/em&gt;. We obtain the following:&lt;/p&gt;
-
-&lt;p&gt;\[ T_{obs} = T_{cloud}e^{-\tau} + T_e(1 -e^{-\tau}) \]&lt;/p&gt;
-
-&lt;p&gt;Quite intuitive, isn’t it?&lt;/p&gt;
-
-&lt;p&gt;The simulation results:&lt;/p&gt;
-
-&lt;p&gt;At Frequency =  18 Megacycle per second. (\(18\times10^{6} Hertz\)):&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_18MC.png&quot; width=&quot;75%&quot; height=&quot;25%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;At Frequency =  100 Megacycle per second. (\(100\times10^{6} Hertz \)):&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_100MC.png&quot; width=&quot;75%&quot; height=&quot;20%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;At Frequency =  400 Megacycle per second. (\(400\times10^{6} Hertz\)):&lt;/p&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/sabSAThai/sabSAThai.github.io/master/static/assets/img/blog/solar_imaging/temp_profile_400MC.png&quot; width=&quot;75%&quot; height=&quot;20%&quot; align=&quot;middle&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: 
-We considered a radially symmetric profile of electron density in the solar atmosphere. But actually, the sun has many disturbances in its bizarre atmosphere. One of the type of irregularities is called coronal cone cavity. These are conical shaped regions which have their apex at the core of the sun and they extend up to the outer atmosphere. These conical regions have lesser electron density than their surroundings as the material ejects out from this cones. These ejections(sudden massive outbursts) are the reasons for solar flares. 
-When you observe the sun, these regions appear darker than the surrounding area by the virtue of low electron density at the given frequency.&lt;/p&gt;
-
-&lt;h2 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Radio Reflection and Refraction Phenomena in the High Solar Corona, Ronald N. Bracewell \(\&amp;amp;$\) George W. Preston, Berkeley Astronomical Department, University of California.&lt;/li&gt;
-  &lt;li&gt;Cloud picture credits: https://web.njit.edu/~gary/728/assets/cloud.gif&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Wed, 31 May 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/technical%20report/2017/05/31/imaging-Sun-at-Radio-and-Microwave-Frequencies.html</link>
-        <guid isPermaLink="true">http://localhost:4000/technical%20report/2017/05/31/imaging-Sun-at-Radio-and-Microwave-Frequencies.html</guid>
-        
-        <category>Sun</category>
-        
-        <category>Corona</category>
-        
-        <category>Radiative heat transfer</category>
-        
-        <category>Solar Atmosphere</category>
-        
-        
-        <category>Technical Report</category>
-        
-      </item>
-    
-      <item>
-        <title>When Universe Says Mai Aisa Kyu Hoon</title>
-        <description>&lt;p&gt;You’ve just checked into your hotel room for a weekend. On entering the room you immediately walk onto the room’s balcony to take in the eighth floor view. Unfortunately, the guardrail gives way the instant you lean on it and you fall. You scream, but for some reason you don’t feel the pain you expected after falling on hard ground. Instead you find yourself immersed in an immense, soft bed. Of all the vehicles to fall into, you managed to hit an open trailer full of defective pillows from the local bedding factory.
-Why is it that conditions were just right for your survival?&lt;/p&gt;
-
-&lt;p&gt;Anthropic principle is a philosophical idea which says that the observations of the universe must be compatible with living beings living in the space time of that universe. To phrase the principle in one line I would say “We see the universe the way it is because we exist in it.” 
 &lt;br /&gt;
-There are two versions of this principle&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Weak anthropic principle&lt;/li&gt;
-  &lt;li&gt;Strong anthropic principle&lt;/li&gt;
-&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Weak anthropic principle:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;half_left_22&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/3.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/3.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;It says that in a universe living beings can exist only if certain are met. In a way, it explains the existence of universal constants. It appears as if the values of the constants are carefully designed such that all the conditions are met. A debate point which can be used a theists.&lt;/p&gt;
+&lt;!-- &lt;figure class=&quot;half_left&quot;&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;At the exhibit called as ‘Plastic Ocean’, Singaporean artist Tan Xi Zi uses plastic from our everyday use to create an illusion of an ocean in such a way that highlights the poignant reality that if we aren’t careful we may drown in an ocean of plastic refuse of our own making. The effect is thus stark and doom-ridden but drives home the likely hazards hitting rather hard…&lt;/p&gt;
 
-&lt;p&gt;Now you may question that why are all these conditions met in the universe we see ? 
-The simple answer to this is that if these conditions weren’t satisfied then we wouldn’t be there here to observe it. You may also have observed that this principle supports the idea of bubble of multiuniverses and we live in the universe which supports life.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Strong anthropic principle:&lt;/strong&gt;   &lt;br /&gt;
-I am not going to state what is the strong version is of anthropic principle since it is under debate and I would encourage to have a random shower thought session on the same.&lt;/p&gt;
+&lt;figure class=&quot;half_right_30&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/4.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/4.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Overflow:&lt;/strong&gt; Shilo Shiv Suleman uses embroidery as an artform on panels made of organza and fiberglass that extend from the ceiling to the floor. Her love poems on them captivate ur heart while the sheer beauty of this art enthrals and overflows! &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_left_55&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/5.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/5.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Oliver Hoelzl creates an illusion of Koli women praying to the Sea Deity or the Samudra Devta . This is not a pic though but a clever juxtaposition of stenciled paper cuts that have been highlighted with halogen lamps. The effect is mesmerizing to say the least .These layers of the stencil cuts are metaphorical for the various layers of urbanization which have hidden the erstwhile historical past of the Kolis who are the original inhabitants of the island of Mumbanagari . &lt;/p&gt;
+
+&lt;p&gt;In case u miss- that’s urs truly silhouetted in the foreground, praying too ! &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_right_35&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/6.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/6.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Guido Van Helten is an Australian artist who specializes in black and white portraits. For the SD app, he spent 3days with the locals and finally zeroed in on 3friends all ladies that typify the very pulse of a forgotten people. They were the ones who the artist spent time, shelling prawns. Their ease of manner, unpretentious attitude and affable manner is highlighted by the larger than life murals which the artist has made into facades that make up the walls of the warehouse at the docks.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_left_28&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/7.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/7.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Ugly truth is a photonarrative by Artist Sajid Wajid Shaikh who has created an installation using the waste materials used in the landfill at Turbhe. A simple interpretation of a Mickey Mouse beautified by digitalising its lips does not take away from the ugly truth that even if the waste is out of sight and mind it still exists somewhere . This looms over our heads and threatens to be a major cascading catastrophe in the days to come if not addressed.. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_right_35&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/8.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/8.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;The Dead Fish&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An installation by the Arthat Collective wherein young designers use the imagery of a dead fish to bring out the sad truth of what modern unwarranted urbanization often does to habitats that bear the brunt&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_left_22&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/9.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/9.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Untitled artwork by Aniruddh, uses various pictures taken around the Sassoon Dockyard area and using them with various geometric shapes to form a very complicated collage of sorts that highlights the complexities that engulf our city.(Featuring my daughter, Isha)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_right_20&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/10.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/10.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Parfum Sassoon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This artwork by Sameer Kulavoor is a paradoxical take off on how a product is sold. Here the object of desire being the perfume of the docks an imagery that shows that anything if packaged cleverly and presented can be sold in this city of dreams &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/11.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/11.jpeg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/12.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/12.jpeg&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/13.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/13.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Artist Faizan’s installation of a Dog relieving itself at regular intervals cannot be escaped. It is a metaphorical take on how we tend to overlook our immediate problems or situations at hand by pissing (metaphor for lackadaisical attitude)  
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half_left_35&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/14.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/14.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;An untitled project by the artist Hanisha Tirumalasetty shows local Koli women working around crates of fish. Their life revolves around the fish,   crates, nets and the like. While the starkness  of a cloistered life is apparent at first, what caught my eye was also the liveliness of women working together. Can gossip be far behind then . Obviously not!  This somewhat decreases the morbidity of their situation. Finding happiness in unlikely situations is how I look at it. &lt;/p&gt;
+
+&lt;p&gt;That I happened to look like a surreal exhibit myself and it appeared as though these ladies were ogling at my beauteous wonder of the Moirangphee saree is just a matter of fortuitous  luck once again . Perhaps I look hideous but I have purposely retained this incidental image as it lightens the mood.  But I also want to say that this was no deliberate attempt to belittle the artist’s narrative at all.. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sassoon Dog at the Sassoon Dock! &amp;amp; My daughter Isha :)&lt;/p&gt;
+&lt;figure class=&quot;half_left_40&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/15.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/15.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half_right_40&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/16.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/16.jpeg&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;!-- &lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/15.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/15.jpeg&quot;&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/16.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/16.jpeg&quot;&gt;&lt;/a&gt;
+&lt;/figure&gt; --&gt;
 </description>
-        <pubDate>Sun, 29 May 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/05/29/Universe-Says-Mai-Aisa-Kyu-Hoon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/05/29/Universe-Says-Mai-Aisa-Kyu-Hoon.html</guid>
-        
-        <category>Anthropic principle</category>
+        <pubDate>Sun, 24 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/24/A-Day-at-the-Sassoon-Dockyard-Art-Project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/24/A-Day-at-the-Sassoon-Dockyard-Art-Project.html</guid>
         
         
       </item>
