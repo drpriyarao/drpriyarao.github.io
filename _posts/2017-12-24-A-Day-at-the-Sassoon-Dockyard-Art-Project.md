@@ -229,14 +229,51 @@ That I happened to look like a surreal exhibit myself and it appeared as though 
 <br>
 <br>
 
-The Sassoon Dog at the Sassoon Dock! & My daughter Isha :) 
-<figure class="half_left_40">
+
+<figure class="half_right_35">
+	<a href="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"></a>
+</figure>
+The ironies that we live in- 
+First we go and decorate with graffiti and then we dirty the place by littering. People let us be mature and make up our minds about what must be done. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+The Sassoon Dog at the Sassoon Dock!
+<figure class="half_left_35">
 	<a href="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"></a>
 </figure>
 
-<figure class="half_right_40">
-	<a href="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"></a>
-</figure>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- <figure class="half">
 	<a href="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"></a>
 	<a href="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"></a>
