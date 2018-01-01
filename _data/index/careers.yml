@@ -47,6 +47,23 @@
   icon: fa-plus-square
 
 
+
+- name:
+    detail: IDA- Indian Dental Association
+    i18n: company_b
+  desc:
+    detail: Certificate course in Dental photography under the guidance of Dr.Mayur Davda
+    i18n: company_b_desc
+  date:
+    detail: May 2016 
+    i18n: company_b_date
+  job:
+    detail: 
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+
 - name:
     detail: Course in TMJ Disorders Masterclass, Prosthotrain
     i18n: company_b
@@ -155,7 +172,7 @@
     detail: Advanced Centre of Dental Education
     i18n: company_b
   desc:
-    detail: Certificate Course in Implantology under the guidance of Dr. C. P. Mathai. 
+    detail: Certificate Course in Implantology under the guidance of Dr. C.P.Mathai. 
     i18n: company_b_desc
   date:
     detail: January 2012 to June 2012 
@@ -185,7 +202,7 @@
     detail: Clinic upgradation
     i18n: company_b
   desc:
-    detail: Digitalized data and x-rays with RVG systems 
+    detail: Digitalized data and X-rays with RVG systems 
     i18n: company_b_desc
   date:
     detail: August 2007  
@@ -287,7 +304,7 @@
     detail: St. Teresa's Hospital, Agashi
     i18n: company__a
   desc:
-    detail: Faculty at Dental Dept 
+    detail: Faculty at Dental Department 
     i18n: company_a_desc
   date:
     detail: July 1995 to Feb 1997  

@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hello, I'm Dr. Priya Rao, dental surgeon and implantologist practising in Virar since 1995. My special interests are Root canals, Esthetic Dentistry and Full mouth Rehabilitations. Enabling and enhancing Happy smiles is my passion :) For this I keep upgrading my skills. And when I m not pursuing this passion, you will find me either writing, painting, reading or dabbling in photography. And yes this may sound clichéd but is 100% true that I do what I love and love what I do :) # comment
+  desc: Hello, I am Dr. Priya Rao, dental surgeon and implantologist practising in Virar since 1995. My special interests are Root canals, Esthetic Dentistry and Full mouth Rehabilitations. Enabling and enhancing Happy smiles is my passion :) For this I keep upgrading my skills. And when I am not pursuing this passion, you will find me either writing, painting, reading or dabbling in photography. And yes this may sound clichéd but is 100% true that I do what I love and love what I do :) # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: Priya Rao
 
