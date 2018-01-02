@@ -66,4 +66,8 @@
         <loc>http://localhost:4000/assets/css/style.css</loc>
     </url>
 
+    <url>
+        <loc>http://localhost:4000/js/MathBox.js/</loc>
+    </url>
+
 </urlset>

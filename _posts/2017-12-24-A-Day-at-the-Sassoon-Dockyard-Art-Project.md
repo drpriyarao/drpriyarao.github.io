@@ -28,7 +28,7 @@ It is the very embodiment of a fishing district of the Sassoon docks-- that over
 
 That a crow should serendipitously fly across with the prized catch of a fish remnant between its beaks at that very instant as I decide to point and shoot with my mobile phone camera-- is a matter of plain fortuitous luck hard to get by otherwise,  but just shows how interdependent one species is on the other and how imperative it is for us to preserve, improve and cherish our habitat... 
 
-And as the curtains fall over the art festival at the Sassoon Docks, I m indeed happy to have been a witness to this rich heritage from upclose... 
+And as the curtains fell over the art festival at the Sassoon Docks, I m indeed happy to have been a witness to this rich heritage from upclose... 
 
 <br>
 <br>
@@ -40,7 +40,7 @@ And as the curtains fall over the art festival at the Sassoon Docks, I m indeed 
 </figure>
 
 
-The picture that is the very embodiment of a fishing district that over time got relegated into oblivion where the Kolis continued to live in their own netted world, left to their own devices. The pulse of 'this' people runs in the fishing net that is the main medium of sustenance and their primary source of livelihood. As one enters the docks, the fishy stench is all pervasive which becomes so to a point that it can curdle the gastric juices. But the exhibit at the outset itself brings to the foyer these idiosyncrasies that hold the thread of a community and captivates through imagery.  A fishing net that symbolizes the entire district that should ideally make people reel due to the fishy odour read obnoxious stench for some, does all but do that. Hanif Qureshi's exhibit at the entrance has very commonplace names of various objects that invoke our olfactory senses and challenge our memory, taking our mind away from all this as we read and mull over them.  Some of them like Mom's cooking, a new book, fresh clothes, freshly cut grass, ink, a new book or a shoe are among the pleasant ones and among the downright obnoxious ones are the dung, a train toilet, garbage, dung, etc. These are those very smells that have for long been taken for granted but not anymore at this exhibit.
+This picture is the very embodiment of this fishing district . The pulse of 'this' people runs in the fishing net that is the main medium of sustenance and their primary source of livelihood. As one enters the docks, the fishy stench is all pervasive which becomes so to a point that it can curdle the gastric juices. But the exhibit at the outset itself brings to the foyer these idiosyncrasies that hold the thread of a community and captivates through imagery.  A fishing net that symbolizes the entire district that should ideally make people reel due to the fishy odour read obnoxious stench for some, does all but do that. Hanif Qureshi's exhibit at the entrance has very commonplace names of various objects that invoke our olfactory senses and challenge our memory, taking our mind away from all this as we read and mull over them.  Some of them like Mom's cooking, a new book, fresh clothes, freshly cut grass, ink, a new book or a shoe are among the pleasant ones and among the downright obnoxious ones are the dung, a train toilet, garbage , etc. These are those very smells that have for long been taken for granted but not anymore at this exhibit. 
 
 <br>
 <br>
@@ -274,7 +274,22 @@ The Sassoon Dog at the Sassoon Dock!
 <br>
 <br>
 <br>
-<!-- <figure class="half">
-	<a href="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/15.jpeg"></a>
-	<a href="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"><img src="{{ site.url }}/static/assets/img/blog/docks/16.jpeg"></a>
-</figure> -->
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+<script src="{{ site.url }}/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="{{ site.url }}/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script src="{{ site.url }}/js/footnotes.js"></script>
+<script src="{{ site.url }}/js/bootstrap-carousel.js"></script>
+<script src="{{ site.url }}/js/inlineDisqussions.js"></script>
+<script src="{{ site.url }}/js/toc.js"></script>
+
+
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<noscript>Enable JavaScript for footnotes, Disqus comments, and other cool stuff.</noscript>
