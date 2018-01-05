@@ -1,6 +1,6 @@
 
 
-var disqus_shortname = 'pranavsankhe'; 
+var disqus_shortname = 'drpriyarao'; 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = 'http://disqus.com/forums/lambdaoinks/embed.js';

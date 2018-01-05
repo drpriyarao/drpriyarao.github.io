@@ -5,8 +5,8 @@
     <description>My blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2018 19:58:52 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2018 19:58:52 +0530</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2018 20:27:24 +0530</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2018 20:27:24 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -33,7 +33,7 @@
 					&lt;br /&gt;
 
                    
-                   &lt;figure class=&quot;half_left_55&quot;&gt;
+                   &lt;figure class=&quot;half_left_60&quot;&gt;
 				    &lt;a href=&quot;http://localhost:4000/static/assets/img/blog/docks/1.jpeg&quot;&gt;&lt;img src=&quot;http://localhost:4000/static/assets/img/blog/docks/1.jpeg&quot;&gt;&lt;/a&gt;
 				   &lt;/figure&gt;
 

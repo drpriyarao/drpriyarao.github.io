@@ -2859,6 +2859,19 @@ body {
 
 
 @media only screen and (min-width:43.75em) {
+    figure.half_left_60 img {
+        float: left;
+        width: 60%;
+        margin-right: 0.5%;
+        margin-left: 0.5%;
+    }
+
+    figure.half figcaption {
+        clear: left;
+    }
+}
+
+@media only screen and (min-width:43.75em) {
     figure.half_left_55 img {
         float: left;
         width: 55%;
