@@ -5,8 +5,8 @@
     <description>My blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2018 20:27:24 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2018 20:27:24 +0530</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2018 02:25:48 +0530</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2018 02:25:48 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -382,7 +382,7 @@
 					&lt;br /&gt;
 
                     &lt;hr&gt;
-                    &lt;div class=&quot;row&quot;&gt;
+&lt;!--                     &lt;div class=&quot;row&quot;&gt;
                         &lt;div class=&quot;col-md-6&quot;&gt;
                                 &lt;h5 style=&quot;display: inline;&quot;&gt;Tags:&lt;/h5&gt;
                                 
@@ -396,7 +396,7 @@
                                 &lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
-                    &lt;/div&gt;
+                    &lt;/div&gt; --&gt;
                     &lt;br&gt;
                     &lt;div class=&quot;row&quot;&gt;
                         &lt;div class=&quot;col-lg-12&quot;&gt;
@@ -422,20 +422,40 @@ a2a_config.color_link_text_hover = &quot;333333&quot;;
 &lt;script async src=&quot;https://static.addtoany.com/menu/page.js&quot;&gt;&lt;/script&gt;
 
                             &lt;br&gt;
-                            &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-                            &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-							&lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+						&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 
-							&lt;script src=&quot;http://localhost:4000/js/inlineDisqussions.js&quot;&gt;&lt;/script&gt;
-							&lt;script src=&quot;http://localhost:4000/js/disqus.js&quot;&gt;&lt;/script&gt;
-                            									&lt;/div&gt;	
-									                        &lt;/div&gt;
-                        									&lt;div class=&quot;col-md-4&quot; id=&quot;toc-wrapper&quot;&gt;
-                        								&lt;/div&gt;
-                    								&lt;/div&gt;
-                								&lt;/div&gt;
-            								&lt;/div&gt;
+						&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+						&lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
 
+						&lt;script src=&quot;http://localhost:4000/js/inlineDisqussions.js&quot;&gt;&lt;/script&gt;
+						&lt;script src=&quot;http://localhost:4000/js/disqus.js&quot;&gt;&lt;/script&gt;
+						                            &lt;/div&gt;
+						                        &lt;/div&gt;
+						                        &lt;div class=&quot;col-md-4&quot; id=&quot;toc-wrapper&quot;&gt;
+						                        &lt;/div&gt;
+						                    &lt;/div&gt;
+						                &lt;/div&gt;
+						            &lt;/div&gt;
+						        &lt;/div&gt;
+
+						    &lt;!-- jQuery--&gt;
+						    &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+						    &lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+
+						    &lt;script src=&quot;http://localhost:4000/bootstrap/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
+
+						    &lt;script src=&quot;http://localhost:4000/highlight/highlight.pack.js&quot;&gt;&lt;/script&gt;
+						    &lt;script&gt;hljs.initHighlightingOnLoad();&lt;/script&gt;
+
+						    &lt;script src=&quot;http://localhost:4000/js/footnotes.js&quot;&gt;&lt;/script&gt;
+						    &lt;script src=&quot;http://localhost:4000/js/bootstrap-carousel.js&quot;&gt;&lt;/script&gt;
+						    &lt;script src=&quot;http://localhost:4000/js/inlineDisqussions.js&quot;&gt;&lt;/script&gt;
+						    &lt;script src=&quot;http://localhost:4000/js/toc.js&quot;&gt;&lt;/script&gt;
+
+
+						    &lt;script type=&quot;text/javascript&quot; src=&quot;//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+						    &lt;noscript&gt;Enable JavaScript for footnotes, Disqus comments, and other cool stuff.&lt;/noscript&gt;
                             &lt;!-- comment --&gt;
 
                         &lt;/div&gt;
