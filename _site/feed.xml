@@ -5,8 +5,8 @@
     <description>My blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jan 2018 02:25:48 +0530</pubDate>
-    <lastBuildDate>Sat, 06 Jan 2018 02:25:48 +0530</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2018 02:38:22 +0530</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2018 02:38:22 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -425,7 +425,7 @@ a2a_config.color_link_text_hover = &quot;333333&quot;;
 						&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 
 						&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-						&lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+						&lt;script src=&quot;https://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
 
 						&lt;script src=&quot;http://localhost:4000/js/inlineDisqussions.js&quot;&gt;&lt;/script&gt;
 						&lt;script src=&quot;http://localhost:4000/js/disqus.js&quot;&gt;&lt;/script&gt;
@@ -440,7 +440,7 @@ a2a_config.color_link_text_hover = &quot;333333&quot;;
 
 						    &lt;!-- jQuery--&gt;
 						    &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-						    &lt;script src=&quot;http://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
+						    &lt;script src=&quot;https://code.jquery.com/jquery-1.10.1.min.js&quot;&gt;&lt;/script&gt;
 
 						    &lt;script src=&quot;http://localhost:4000/bootstrap/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;
 
